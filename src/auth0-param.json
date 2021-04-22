@@ -1,0 +1,8 @@
+{
+    "domain": "dev-z09udgzx.us.auth0.com",
+    "clientId": "VUdgzGxGyZYakSdUTPnWD14U49rue0tJ",
+    "callbackUrl": "http://localhost:3000",
+    "realm": "Username-Password-Authentication",
+    "apiAudience": "https://dev-z09udgzx.us.auth0.com/api/v2/",
+    "scope":"read:current_user update:current_user_metadata"
+  }
